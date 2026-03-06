@@ -22,6 +22,7 @@ graph.whatsapp.com
 graph.whatsapp.net
 ig.me
 instagram.com
+internalfb.com
 lookaside.facebook.com
 m.facebook.com
 media.whatsapp.net
@@ -29,11 +30,15 @@ messenger.com
 meta.com
 mmg.whatsapp.net
 mqtt.facebook.com
+oculus.com
 pps.whatsapp.net
 scontent.xx.fbcdn.net
 static.whatsapp.net
+threads.net
 v.whatsapp.net
+wa.me
 web.whatsapp.com
+whatsapp.biz
 whatsapp.com
 whatsapp.net
 z-m-gateway.facebook.com
