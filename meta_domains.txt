@@ -1,9 +1,12 @@
 accountkit.com
+api.whatsapp.com
 c.whatsapp.net
 cdninstagram.com
 connect.facebook.net
 e.whatsapp.net
+edge-chat.facebook.com
 edge-mqtt.facebook.com
+external.xx.fbcdn.net
 facebook.com
 facebook.net
 fb.com
@@ -14,8 +17,10 @@ fbsbx.com
 g.whatsapp.net
 graph.facebook.com
 graph.whatsapp.com
+ig.me
 instagram.com
 lookaside.facebook.com
+m.facebook.com
 media.whatsapp.net
 messenger.com
 meta.com
@@ -28,3 +33,6 @@ v.whatsapp.net
 web.whatsapp.com
 whatsapp.com
 whatsapp.net
+www.facebook.com
+www.instagram.com
+www.whatsapp.com
